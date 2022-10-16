@@ -23,8 +23,11 @@
 </p>
 
 **TorrHunt** is an android application that allows you to search and download torrents directly from your phone.
+
 This app saves you time by including multiple torrent sources and providers in one place.
+
 You can also browse, search and download movies provided by **[YTS](https://yts.mx/)**.
+
 ℹ This app inspired by [TorrSE](https://forum.xda-developers.com/t/apk-mod-torrse-torrent-search-engine-ad-free.3934264/)
 
 This project is made with the help of :
@@ -75,7 +78,7 @@ This project is made with the help of :
 
 **[A]** : Well, I'm thinking about pushing it, BUT the code is a mess, it needs a little rework, and a rework needs time, and time is a treasure i don't yet have.
 
-### Changelog
+## Changelog
 
 **[READ](https://torrhunt.vercel.app/changelog/changelog.html)**
 
