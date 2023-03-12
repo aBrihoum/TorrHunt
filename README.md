@@ -17,8 +17,8 @@
 ---
 
 <p align="center">
-<a href="https://i.postimg.cc/4N8K0nym/feature-github.webp" target="_blank" rel="noopener noreferrer">
-<img width="500px" src="https://i.postimg.cc/4N8K0nym/feature-github.webp">
+<a href="https://i.ibb.co/JHrpgTv/feature-github.webp" target="_blank" rel="noopener noreferrer">
+<img width="500px" src="https://i.ibb.co/JHrpgTv/feature-github.webp">
 </a>
 </p>
 
@@ -42,16 +42,16 @@ This project is made with the help of :
 ## Gallery
 
 <p align="center">
-<a href="https://i.postimg.cc/vmFRzLrM/2.webp" target="_blank" rel="noopener noreferrer">
-<img style="border-radius:5px" src="https://i.postimg.cc/vmFRzLrM/2.webp" width="32%"></img>
+<a href="https://i.ibb.co/Ksr2YVM/2.webp" target="_blank" rel="noopener noreferrer">
+<img style="border-radius:5px" src="https://i.ibb.co/Ksr2YVM/2.webp" width="32%"></img>
 </a>
 
-<a href="https://i.postimg.cc/qR4PfJD5/3.webp" target="_blank" rel="noopener noreferrer">
-<img style="border-radius:5px" src="https://i.postimg.cc/qR4PfJD5/3.webp" width="32%"></img>
+<a href="https://i.ibb.co/q0LNr5q/3.webp" target="_blank" rel="noopener noreferrer">
+<img style="border-radius:5px" src="https://i.ibb.co/q0LNr5q/3.webp" width="32%"></img>
 </a>
 
-<a href="https://i.postimg.cc/1zpkYnBF/4.webp" target="_blank" rel="noopener noreferrer">
-<img style="border-radius:5px" src="https://i.postimg.cc/1zpkYnBF/4.webp" width="32%"></img>
+<a href="https://i.ibb.co/Kx4X9mZ/4.webp" target="_blank" rel="noopener noreferrer">
+<img style="border-radius:5px" src="https://i.ibb.co/Kx4X9mZ/4.webp" width="32%"></img>
 </a>
 </p>
 
